@@ -1,3 +1,9 @@
 [submodule "computer-vision/Siamese-Networks"]
 	path = computer-vision/Siamese-Networks
 	url = git@github.com:MarcosMota/Siamese-Networks.git
+[submodule "series-temporais/Sales-Transaction"]
+	path = series-temporais/Sales-Transaction
+	url = https://github.com/MarcosMota/TimesSeries-Sales-Transaction.git
+[submodule "series-temporais/Absenteeism"]
+	path = series-temporais/Absenteeism
+	url = git@github.com:MarcosMota/TimesSeries-Absenteeism.git
